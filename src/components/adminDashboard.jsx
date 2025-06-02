@@ -46,7 +46,7 @@ export default function AdminDashboard() {
           >
             Live Route
           </button>
-          <button className="text-left hover:bg-green-700 px-3 py-2 rounded">Collection points</button>
+          <button className="text-left hover:bg-green-700 px-3 py-2 rounded">Collection Points</button>
           <button
               onClick={handleLogout}
               className="text-left hover:bg-green-700 px-3 py-2 rounded"
